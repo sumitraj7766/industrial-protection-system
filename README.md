@@ -17,6 +17,7 @@ A real-time embedded system designed to monitor electrical parameters like **cur
 - 🔘 Manual reset button support
 
 ---
+<img width="1370" height="662" alt="Self-Healing Electrical System" src="https://github.com/user-attachments/assets/4885234e-5dc1-44d4-8662-ffa9ac9a69d1" />
 
 ## 🧠 Working Principle
 
@@ -42,6 +43,7 @@ If fault persists after retries → system goes into **shutdown mode**.
 - Resistors (220Ω)
 
 ---
+<img width="1032" height="463" alt="Self-Healing Electrical System " src="https://github.com/user-attachments/assets/a9d37655-c4c5-4ddf-bb2b-67144d2c55ba" />
 
 ## 📌 Pin Configuration (Arduino UNO)
 
